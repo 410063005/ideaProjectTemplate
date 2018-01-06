@@ -1,0 +1,2 @@
+# ideaProjectTemplate
+Idea project template
